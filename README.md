@@ -1,1 +1,2 @@
 # Bitcoin-Analysis-with-regression
+In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables.With the Regression techniques, we make analysis on Bitcoin to predict wheather it goes up or down and plot the graph for better understanding.
